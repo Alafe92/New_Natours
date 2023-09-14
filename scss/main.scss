@@ -3,9 +3,10 @@
 
 
 @import "base/animation";
-@import "base/base";
-@import "base/typography";
-@import "base/utilities";
+
+
+
+
 
 
 
@@ -19,10 +20,18 @@
 @import "components/story";
 @import "components/bg-video";
 @import "components/form";
+@import "components/popup";
 
 @import "pages/home";
 
 @import "layout/grid";
+@import "layout/footer";
+@import "layout/navigation";
+
 @import "layout/header";
+@import "base/utilities";
+
+@import "base/base";
+@import "base/typography";
 @import "base/utilities";
 
